@@ -4,7 +4,7 @@ require_once __DIR__.'\..\sdk\index.php';
 
 //Setting up the Hackerearth API
 $hackerearth = Array(
-		'client_secret' => 'b1803e335e227a1320fc6dc3587a0d496e97d3e5', //(REQUIRED) Obtain this by registering your app at http://www.hackerearth.com/api/register/
+		'client_secret' => '**********', //(REQUIRED) Obtain this by registering your app at http://www.hackerearth.com/api/register/
         'time_limit' => '5',   //(OPTIONAL) Time Limit (MAX = 5 seconds )
         'memory_limit' => '262144'  //(OPTIONAL) Memory Limit (MAX = 262144 [256 MB])
 	);
