@@ -12,7 +12,13 @@ You have to obtain your client secret key from [HackerEarth Here](http://www.hac
 #### Install
 
 >Currently You Can Simply Download A Zip Of This Repo And put this into you code require_once __DIR__.'path\to\folder\sdk\index.php';
->Soon this will available on [Composer](http://www.getcomposer.com)
+
+
+>To Use Via [Composer](http://www.getcomposer.com)
+```
+composer require vipinkhushu/hackerearth-sdk-php
+require_once __DIR__.'\sdk\index.php';
+```
 
 #### Language Codes
 Kindly Use the below codes only to give language name
