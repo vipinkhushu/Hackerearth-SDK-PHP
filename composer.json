@@ -1,0 +1,29 @@
+{
+    "name": "vipinkhushu/hackerearth-sdk-php",
+    "type": "library",
+    "description": "A PHP SDK To Run And Compile Codes Using Hackerearth's API V3",
+    "keywords": ["hackerearth", "run", "compile", "api", "coding", "code", "vipin", "khushu"],
+    "license": "MIT",
+    "homepage": "https://www.hackerearth.com/docs/api/developers/code/v3/",
+    "authors": [
+        {
+            "name": "Vipin Khushu",
+            "email": "vipinkhushu@hotmail.com",
+            "homepage": "https://www.vipinkhushu.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/vipinkhushu/Hackerearth-SDK-PHP",
+        "issues": "https://github.com/vipinkhushu/Hackerearth-SDK-PHP/issues"
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "ext-curl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*",
+        "squizlabs/php_codesniffer": "2.3.*",
+        "phpmd/phpmd": "2.3.*"
+    }
+}
