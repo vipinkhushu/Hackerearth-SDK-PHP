@@ -5,11 +5,11 @@ This library helps you to compile and run your code with [HackerEarth API v3](ht
 
 Using HackerEarth API you can compile and run your code using their [CodeTable](https://code.hackerEarth.com)
 
-#### Prerequisite
+### Prerequisite
 
 You have to obtain your client secret key from [HackerEarth Here](http://www.hackerearth.com/api/register/) and voila you are done!
 
-#### Install
+### Install
 
 >Currently You Can Simply Download A Zip Of This Repo And put this into you code require_once __DIR__.'path\to\folder\sdk\index.php';
 
